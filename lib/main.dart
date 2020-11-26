@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:myfirstapp/mycard.dart';
 
 void main() {
-  runApp(MyProfile());
+  runApp(MyCard());
 }
 
 class MyProfile extends StatelessWidget {
